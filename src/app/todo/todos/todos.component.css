@@ -1,0 +1,20 @@
+.title {
+  background-color: blueviolet;
+  padding: 1rem 0.5rem;
+  color: white;
+  font-weight: normal;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-weight: normal;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+app-todo {
+  border-bottom: 1px solid lightgray;
+}
